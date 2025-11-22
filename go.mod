@@ -1,4 +1,4 @@
-module samat
+module github.com/QosmuratSamat0/protos
 
 go 1.25
 
